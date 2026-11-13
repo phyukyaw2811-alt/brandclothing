@@ -1,0 +1,6 @@
+{
+  "name": "Atelier 360 — Garment Studio",
+  "description": "Interactive 360-degree 3D garment viewer and apparel specification studio for front and back shirt mockups, fabric calibration, and tech-pack notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
